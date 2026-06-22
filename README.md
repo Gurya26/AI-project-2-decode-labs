@@ -85,9 +85,6 @@ AI-project-2-decode-labs/
 ├── requirements.txt
 ├── Procfile
 └── README.md
-```
-
----
 
 ## 🌸 Sample Inputs
 
