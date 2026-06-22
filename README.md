@@ -4,19 +4,13 @@ A Machine Learning web application that predicts the species of an Iris flower u
 
 > 🎓 Developed as **Project 2** during my Artificial Intelligence Internship at **DecodeLabs**.
 
----
-
 ## 🌐 Live Demo
 
 🔗 https://ai-project-2-decode-labs.onrender.com/
 
----
-
 ## 📂 GitHub Repository
 
 🔗 https://github.com/Gurya26/AI-project-2-decode-labs
-
----
 
 ## 📌 Features
 
@@ -28,8 +22,6 @@ A Machine Learning web application that predicts the species of an Iris flower u
 - ⚡ Fast predictions using Flask
 - 🌍 Deployed on Render
 
----
-
 ## 🧠 Machine Learning Workflow
 
 1. Load the Iris dataset
@@ -40,8 +32,6 @@ A Machine Learning web application that predicts the species of an Iris flower u
 6. Accept user input through the web interface
 7. Predict the flower species
 8. Display the prediction with confidence
-
----
 
 ## 🛠️ Tech Stack
 
@@ -65,8 +55,6 @@ A Machine Learning web application that predicts the species of an Iris flower u
 ### Deployment
 - Render
 - GitHub
-
----
 
 ## 📁 Project Structure
 
@@ -115,14 +103,9 @@ AI-project-2-decode-labs/
 | Petal Length | 5.6 |
 | Petal Width | 2.4 |
 
----
-
 ## 📸 Application Preview
 
 <img width="362" height="735" alt="Screenshot 2026-06-22 172943" src="https://github.com/user-attachments/assets/24e9dccc-5a41-4fac-ae9e-df48e3a45a87" />
-
-
----
 
 ## 🚀 Future Improvements
 
@@ -132,7 +115,6 @@ AI-project-2-decode-labs/
 - 📈 Compare multiple ML algorithms
 - ☁️ Deploy with Docker
 
----
 
 ## 👩‍💻 Developed By
 
@@ -143,7 +125,6 @@ Artificial Intelligence Intern – DecodeLabs
 - 💼 LinkedIn: https://www.linkedin.com/in/anam-kondvilkar/
 - 💻 GitHub: https://github.com/Gurya26
 
----
 
 ## ⭐ Support
 
