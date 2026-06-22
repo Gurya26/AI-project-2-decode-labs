@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Iris Flower Classifier</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>🌸 AI Iris Flower Classifier</h1>
+
+        <p class="subtitle">
+            Predict Iris Flower Species using Machine Learning
+        </p>
+
+        <div class="input-group">
+
+            <label>Sepal Length (cm)</label>
+
+            <input
+                type="number"
+                id="sepal_length"
+                step="0.1"
+                placeholder="Example: 5.1"
+            >
+
+        </div>
+
+        <div class="input-group">
+
+            <label>Sepal Width (cm)</label>
+
+            <input
+                type="number"
+                id="sepal_width"
+                step="0.1"
+                placeholder="Example: 3.5"
+            >
+
+        </div>
+
+        <div class="input-group">
+
+            <label>Petal Length (cm)</label>
+
+            <input
+                type="number"
+                id="petal_length"
+                step="0.1"
+                placeholder="Example: 1.4"
+            >
+
+        </div>
+
+        <div class="input-group">
+
+            <label>Petal Width (cm)</label>
+
+            <input
+                type="number"
+                id="petal_width"
+                step="0.1"
+                placeholder="Example: 0.2"
+            >
+
+        </div>
+
+        <button onclick="predictFlower()">
+
+            🌸 Predict Flower
+
+        </button>
+
+        <button class="reset-btn" onclick="resetFields()">
+
+            Reset
+
+        </button>
+
+        <div id="result" class="result">
+
+            Prediction will appear here.
+
+        </div>
+
+        <footer>
+
+            Developed by <strong>Anam</strong> ❤️
+
+            <br>
+
+            DecodeLabs AI Internship - Project 2
+
+        </footer>
+
+    </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+
+</html>
